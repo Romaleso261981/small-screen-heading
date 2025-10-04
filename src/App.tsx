@@ -1,4 +1,4 @@
-import "./styles.css";
+import "./styles.scss";
 import Container from "./Container";
 import { containers } from "./mocData";
 
